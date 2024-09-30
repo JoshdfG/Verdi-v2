@@ -36,7 +36,7 @@ Get inspired by our hero image showcasing a sustainable future.Learn about our j
 
 ### Built
 
-With `Base` Verdi is built on the `Base` platform, utilizing its innovative technology to drive sustainability.
+With `Scroll` Verdi is built on the `Scroll` platform, utilizing its innovative technology to drive sustainability.
 
 #### Contract Address
 
@@ -44,18 +44,18 @@ With `Base` Verdi is built on the `Base` platform, utilizing its innovative tech
 
 ##### Organisation Factory
 
-0x51B9000FE125c84487B26d3F6734f6e4164d463e
-https://sepolia.basescan.org/address/0x51B9000FE125c84487B26d3F6734f6e4164d463e
+0xcFb19dee1Fc394134074FF32D80474c45484A211
+https://sepolia.scrollscan.com/address/0xcfb19dee1fc394134074ff32d80474c45484a211#code
 
 ##### Organisation Address
 
-0xE3f5996919f78891C8E5ACfC47aC0917b16cC1B3
-https://sepolia.basescan.org/address/0xE3f5996919f78891C8E5ACfC47aC0917b16cC1B3
+0xc179843a06864201223077492f869528c7f9cf03
+https://sepolia.scrollscan.com/address/0xc179843a06864201223077492f869528c7f9cf03#code
 
 ##### Reward NFT Address
 
-0x49B4a9f1AA88dc9F4bbD9D0ce338e34Bf35896d4
-https://sepolia.basescan.org/address/0x49B4a9f1AA88dc9F4bbD9D0ce338e34Bf35896d4
+0x0173dbA0c12049d4d58f266E1261Ee37Fd212ea6
+https://sepolia.scrollscan.com/address/0xdff7ebb3f88d5d097f08c5522115d0656cb42314#code
 
 ---
 
@@ -64,4 +64,4 @@ https://sepolia.basescan.org/address/0x49B4a9f1AA88dc9F4bbD9D0ce338e34Bf35896d4
 Join us in our mission to create a sustainable future. Explore our platform, participate in campaigns, and collaborate with us to make a difference.
 Copyright
 
-`©2024` Verdi, built on `Base`. All rights reserved.
+`©2024` Verdi, built on `Scroll`. All rights reserved.

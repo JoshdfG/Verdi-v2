@@ -12,17 +12,22 @@ export const OrganisationFactoryABI = [
       {
         indexed: true,
         internalType: "address",
-        name: "Organisation",
+        name: "Organisation_address",
         type: "address",
       },
       { indexed: true, internalType: "address", name: "Nft", type: "address" },
       {
         indexed: false,
         internalType: "string",
-        name: "organisation",
+        name: "organisation_name",
         type: "string",
       },
-      { indexed: false, internalType: "string", name: "uri", type: "string" },
+      {
+        indexed: false,
+        internalType: "string",
+        name: "_org_uri",
+        type: "string",
+      },
       {
         indexed: false,
         internalType: "string",
@@ -49,7 +54,7 @@ export const OrganisationFactoryABI = [
   },
   {
     inputs: [
-      { internalType: "string", name: "_organisation", type: "string" },
+      { internalType: "string", name: "_organisation_name", type: "string" },
       { internalType: "string", name: "_uri", type: "string" },
       { internalType: "string", name: "_adminName", type: "string" },
     ],

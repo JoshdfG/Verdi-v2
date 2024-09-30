@@ -18,7 +18,7 @@ export const WalletConnected = ({
   return (
     <span className="flex items-center gap-1">
       {Number(selectedNetworkId) !== SUPPORTED_CHAIN_ID ? (
-        <span className="text-sm">Switch to Base Sepolia</span>
+        <span className="text-sm">Switch to Scroll Sepolia</span>
       ) : (
         <>
           <span className="w-6 h-6 rounded-full overflow-hidden">

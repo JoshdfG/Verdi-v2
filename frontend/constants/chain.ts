@@ -1,4 +1,4 @@
-export const SUPPORTED_CHAIN_ID = 84532;
+export const SUPPORTED_CHAIN_ID = 534351;
 
 export const isSupportedChain = (
   chainId: number | undefined

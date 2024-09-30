@@ -1,9 +1,9 @@
 import { http, createConfig } from "wagmi";
-import { baseSepolia } from "wagmi/chains";
+import { scrollSepolia } from "wagmi/chains";
 
 export const config = createConfig({
-  chains: [baseSepolia],
+  chains: [scrollSepolia],
   transports: {
-    [baseSepolia.id]: http(`${process.env.NEXT_PUBLIC_HTTP_RPC}`),
+    [scrollSepolia.id]: http(`${process.env.NEXT_PUBLIC_HTTP_RPC}`),
   },
 });

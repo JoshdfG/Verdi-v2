@@ -330,7 +330,7 @@ const Programmes = ({ apiKey, secretKey }: any) => {
             <h3 className="text-xl text-color1 font-medium">
               {organisation.name}
             </h3>
-            <div className="w-[15%] h-1.5 rounded-lg bg-color1"></div>\
+            <div className="w-[15%] h-1.5 rounded-lg bg-color1"></div>
             <div className="flex justify-between items-end w-full mt-4">
               <div className="flex flex-col">
                 <small className="text-color3 text-xs">Role</small>
